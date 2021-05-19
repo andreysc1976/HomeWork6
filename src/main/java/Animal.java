@@ -1,5 +1,3 @@
-import javax.xml.xpath.XPathVariableResolver;
-
 public abstract class Animal {
     private static int countAnimal=0;
     private String name;
