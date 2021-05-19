@@ -4,6 +4,7 @@ public class Dog extends Animal{
     private int swimmLength=10;
     private float jumpHeigth=0.5f;
 
+
     public Dog(String name) {
         super(name);
         countDog++;
