@@ -19,7 +19,6 @@ public class Main {
         dog1.jump(2f);
         dog2.jump(0.1f);
 
-
         System.out.format("Создано %d котов\n",Cat.getCountCat());
         System.out.format("Создано %d собак\n",Dog.getCountDog());
         System.out.format("Создано %d животных\n",Animal.getAnimalCount());

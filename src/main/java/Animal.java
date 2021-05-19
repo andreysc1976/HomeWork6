@@ -13,7 +13,6 @@ public abstract class Animal {
         return name;
     }
 
-
     public abstract void run(int lehgth);
     public abstract void swimming(int length);
     public abstract void jump(float heigth);
